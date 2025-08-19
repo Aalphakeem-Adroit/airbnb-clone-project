@@ -41,7 +41,31 @@ This project is an **Airbnb Clone** that replicates the core functionality of Ai
 | **Simple Checkout View** | Streamlines the booking process. | Booking summary, user details form, payment option, confirm button. |  
 
 ### 💡 Importance of a User-Friendly Design  
-In a booking system, **user-friendly design is critical** because it reduces friction during navigation, increases trust, and encourages users to complete their bookings. A smooth, intuitive experience helps users quickly find properties, understand pricing, and finalize reservations without confusion—leading to higher engagement and conversion rates.  
+In a booking system, **user-friendly design is critical** because it reduces friction during navigation, increases trust, and encourages users to complete their bookings. A smooth, intuitive experience helps users quickly find properties, understand pricing, and finalize reservations without confusion—leading to higher engagement and conversion rates.
+
+### 🎨 Design Properties  
+
+#### 🎨 Color Styles  
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text:** `#222222`  
+- **Secondary Text:** `#717171`  
+
+#### ✍️ Typography  
+- **Primary Font:** Circular, Medium (500), 16px  
+- **Headings:** Circular, Bold (700), 24px–32px  
+- **Secondary Text:** Circular, Book (400), 14px  
+
+---
+
+### 💡 Why Identifying Design Properties Matters  
+Defining **color styles and typography** in advance ensures visual consistency across the project. By identifying these properties in a mockup design:  
+- Developers and designers work with the same visual guidelines.  
+- The user experience remains cohesive across different pages and devices.  
+- Branding is reinforced through consistent colors and type hierarchy.  
+- Design decisions become faster and more scalable for future updates.  
+
 
 ---
 
