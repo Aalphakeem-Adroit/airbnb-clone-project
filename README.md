@@ -117,6 +117,28 @@ Defining **color styles and typography** in advance ensures visual consistency a
 
 ---
 
+## 🧩 UI Component Patterns  
+
+To maintain consistency and reusability across the project, the following UI components will be created:  
+
+### 🔝 Navbar  
+- Provides global navigation throughout the application.  
+- Includes logo, search bar, links to main pages (Home, Listings, Checkout), and user account options.  
+- Stays consistent across all pages for a seamless user experience.  
+
+### 🏡 Property Card  
+- Displays property details in a compact, visually appealing format.  
+- Includes image, title, location, price, and quick action (e.g., “View Details” or “Book Now”).  
+- Reusable across property listing pages with dynamic data.  
+
+### ⬇️ Footer  
+- Contains useful links (About, Help, Contact, Terms, Privacy).  
+- Provides quick access to important information.  
+- Maintains branding and offers consistency at the bottom of every page.  
+
+
+---
+
 ## 🛠 Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript (React/Next.js if used)
