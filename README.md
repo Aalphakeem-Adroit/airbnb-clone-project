@@ -141,11 +141,11 @@ To maintain consistency and reusability across the project, the following UI com
 
 ## 🛠 Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript (React/Next.js if used)
-* **Backend:** Node.js, Express (or Flask/Django if used)
-* **Database:** MongoDB / MySQL / PostgreSQL (specify what you used)
-* **Authentication:** JWT / Firebase Auth / Passport.js
-* **Deployment:** Vercel / Netlify / Render / Heroku (if deployed)
+* **Frontend:** HTML, CSS, JavaScript, React, Next.js
+* **Backend:** Node.js, Express
+* **Database:** MySQL
+* **Authentication:** JWT
+* **Deployment:** Vercel
 
 ---
 
