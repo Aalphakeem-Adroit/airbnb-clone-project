@@ -66,6 +66,54 @@ Defining **color styles and typography** in advance ensures visual consistency a
 - Branding is reinforced through consistent colors and type hierarchy.  
 - Design decisions become faster and more scalable for future updates.  
 
+---
+
+## 👥 Project Roles and Responsibilities  
+
+### 📌 Project Manager  
+- Oversees project planning, execution, and delivery.  
+- Manages timelines, resources, and team coordination.  
+- Ensures communication between stakeholders and the development team.  
+
+### 🎨 Designers  
+- Create wireframes, mockups, and prototypes for the application.  
+- Define UI/UX guidelines (colors, typography, layouts).  
+- Ensure a user-friendly, accessible, and visually appealing design.  
+
+### 💻 Frontend Developers  
+- Implement the UI based on the designers’ mockups.  
+- Ensure responsiveness and cross-browser compatibility.  
+- Integrate frontend components with backend APIs.  
+
+### ⚙️ Backend Developers  
+- Build and maintain the server-side logic, APIs, and database.  
+- Ensure secure authentication and data management.  
+- Optimize application performance and scalability.  
+
+### 🧪 QA/Testers  
+- Develop and execute test cases (manual & automated).  
+- Identify and report bugs or inconsistencies.  
+- Ensure the product meets quality standards before release.  
+
+### 🚀 DevOps Engineers  
+- Manage deployment pipelines and CI/CD processes.  
+- Monitor server performance and ensure system reliability.  
+- Handle cloud services, scaling, and security configurations.  
+
+### 👑 Product Owner  
+- Defines the vision and goals of the project.  
+- Prioritizes features and manages the product backlog.  
+- Acts as the voice of the customer and business needs.  
+
+### 📢 Scrum Master  
+- Facilitates Agile ceremonies (stand-ups, sprint planning, retrospectives).  
+- Removes obstacles that block team progress.  
+- Ensures the team follows Agile principles for smooth delivery.  
+
+---
+
+✅ Together, these roles collaborate to ensure the project is well-planned, user-focused, technically robust, and delivered on time with high quality.  
+
 
 ---
 
